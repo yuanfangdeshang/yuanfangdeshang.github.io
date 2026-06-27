@@ -40,7 +40,7 @@ Across a 2006-2023 backtest, the model achieved a **Return/Risk ratio of 1.0** v
 
 ## TDA-based Style Rotation and Crowding Analysis
 
-**Quantitative Research Intern, Shanghai Silver Leaf Investment**  
+**Buy-side Quantitative Research Internship**  
 Jun. 2025 - Aug. 2025
 
 I worked on a timing strategy for small-cap versus large-cap style rotation using macro indicators and micro-level crowding signals. To capture structural changes in market crowding, I introduced Topological Data Analysis and Persistent Homology as a way to detect changes in the shape of crowding conditions.
@@ -49,7 +49,7 @@ The resulting framework used crowding inflections as style-rotation signals and 
 
 ## Fixed-Income Relative Value and Bond Pair Trading
 
-**Strategy Intern, Quant Info Tech**  
+**Fixed-Income Quant Strategy Internship**  
 Jan. 2026 - Present
 
 I researched bond pair trading ideas based on yield-spread relationships, relative value, and mean-reversion logic. The work strengthened my understanding of fixed-income market structure, rates trading, interest-rate risk, and strategy validation workflows.

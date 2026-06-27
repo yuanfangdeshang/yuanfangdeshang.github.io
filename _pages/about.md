@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate in the Mathematics Talent Program at Fudan University, majoring in Mathematics and Applied Mathematics. My current academic record is **GPA 3.95 / 4.0, ranked 1 / 99**.
+I am an undergraduate in the Mathematics Talent Program at Fudan University, majoring in Mathematics and Applied Mathematics.
 
 My work focuses on quantitative research problems where rigorous mathematical reasoning has to survive noisy, real-world data. I am especially interested in probability, optimization, market microstructure, high-frequency signals, fixed-income relative value, and machine learning methods that are tested under strict out-of-sample validation.
 
@@ -19,13 +19,17 @@ My work focuses on quantitative research problems where rigorous mathematical re
 - Portfolio optimization and dynamic asset allocation
 - Machine learning on noisy financial data
 
+## Personal Interest
+
+- Cycling
+
 ## Selected Experience
 
-**Quant Info Tech**  
+**Fixed-Income Quant Strategy Internship**  
 Strategy Intern, Rates & Fixed Income Group, Jan. 2026 - Present  
 Researching bond pair trading ideas based on yield-spread mean reversion and relative-value logic.
 
-**Shanghai Silver Leaf Investment**  
+**Buy-side Quantitative Research Internship**  
 Quantitative Research Intern, Strategy Department, Jun. 2025 - Aug. 2025  
 Built small-cap versus large-cap style timing signals from macro and crowding indicators; applied TDA / Persistent Homology to identify crowding inflections, with backtest Sharpe Ratio above 1.0.
 

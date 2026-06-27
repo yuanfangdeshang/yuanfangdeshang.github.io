@@ -28,13 +28,13 @@ B.S. in Mathematics and Applied Mathematics, Mathematics Talent Program, expecte
 
 ## Experience
 
-**Quant Info Tech**  
+**Fixed-Income Quant Strategy Internship**  
 Strategy Intern, Rates & Fixed Income Group, Jan. 2026 - Present
 
 - Researched bond pair trading strategies based on yield-spread mean reversion and relative-value logic.
 - Validated fixed-income trading hypotheses with professional rates and bond analytics workflows.
 
-**Shanghai Silver Leaf Investment**  
+**Buy-side Quantitative Research Internship**  
 Quantitative Research Intern, Strategy Department, Jun. 2025 - Aug. 2025
 
 - Built small-cap versus large-cap timing signals from macro and micro-crowding indicators.
