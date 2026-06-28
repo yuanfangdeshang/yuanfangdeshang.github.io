@@ -19,4 +19,30 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-0x5dPbZUc12_4lelMBpzs.js"></script>
+<script>
+  window.plausible = window.plausible || function() {
+    (plausible.q = plausible.q || []).push(arguments);
+  };
+  plausible.init = plausible.init || function(i) {
+    plausible.o = i || {};
+  };
+  plausible.init();
+
+  document.addEventListener("click", function(event) {
+    var link = event.target.closest && event.target.closest("a");
+    if (!link || typeof plausible !== "function") return;
+
+    var href = link.getAttribute("href") || "";
+    if (href.indexOf("/files/Wu_WenXuan_Resume.pdf") !== -1) {
+      plausible("Resume PDF Click");
+    } else if (href.indexOf("mailto:") === 0) {
+      plausible("Email Click");
+    } else if (href.indexOf("github.com/yuanfangdeshang") !== -1) {
+      plausible("GitHub Click");
+    }
+  });
+</script>
+
 <!-- end custom head snippets -->
