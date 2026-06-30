@@ -29,20 +29,6 @@
     plausible.o = i || {};
   };
   plausible.init();
-
-  document.addEventListener("click", function(event) {
-    var link = event.target.closest && event.target.closest("a");
-    if (!link || typeof plausible !== "function") return;
-
-    var href = link.getAttribute("href") || "";
-    if (href.indexOf("/files/Wu_WenXuan_Resume.pdf") !== -1) {
-      plausible("Resume PDF Click");
-    } else if (href.indexOf("mailto:") === 0) {
-      plausible("Email Click");
-    } else if (href.indexOf("github.com/yuanfangdeshang") !== -1) {
-      plausible("GitHub Click");
-    }
-  });
 </script>
 
 <!-- Privacy-friendly analytics by Umami -->
