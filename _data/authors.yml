@@ -16,3 +16,12 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+hidden_profile:
+  name        : "Wu WenXuan"
+  email       : "yuanfangdeshang@qq.com"
+  bio         : "Mathematics undergraduate at Fudan University. Quantitative research, optimization, market microstructure, and noisy financial data."
+  avatar      : "wx-profile-private.jpg"
+  location    : "Shanghai, China"
+  employer    : "Fudan University"
+  github      : "yuanfangdeshang"
